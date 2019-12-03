@@ -1,0 +1,29 @@
+commit 42897e405199fd8826dc962918edabcc1d32252d
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Wed Nov 7 20:48:09 2018 -0500
+
+    Final Commit.
+
+commit 1c20814c6904e672070d5da0adc4a7d2de826740
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Wed Nov 7 20:42:43 2018 -0500
+
+    Completed documentation.
+
+commit a9cc65bbb2347131c75667ab3b8ef3032f86a387
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Wed Nov 7 20:37:28 2018 -0500
+
+    Completed everything except documentation.
+
+commit 6ca4a0d6d11d7a53e6f2549a9d0ac5f8bdf09da7
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Wed Nov 7 19:30:18 2018 -0500
+
+    QueensChamber remaining.
+
+commit f1c6e630cb77127a5a2c4f9d20f413a266213e32
+Author: Mike Cao <mc2522@rit.edu>
+Date:   Wed Nov 7 01:20:17 2018 -0500
+
+    Initial Commit. Incomplete Queen's chamber.
